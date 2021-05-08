@@ -1,0 +1,14 @@
+{
+  "hello": "Xin chào",
+  "login": "Đăng nhập",
+  "username": "Tên tài khoản",
+  "password": "Mật khẩu",
+  "profile": "Thông tin tài khoản",
+  "logout": "Đăng xuất",
+  "en-US": "English",
+  "vi-VN": "Tiếng Việt",
+  "home": "Trang chủ",
+  "internal-server-error": "Lỗi hệ thống",
+  "error-with-status": "Lỗi với trạng thái",
+  "error-without-status": "Lỗi không trạng thái"
+}

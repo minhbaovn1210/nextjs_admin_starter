@@ -1,0 +1,14 @@
+{
+  "hello": "Hello",
+  "login": "Login",
+  "username": "Username",
+  "password": "Password",
+  "profile": "Profile",
+  "logout": "Logout",
+  "en-US": "English",
+  "vi-VN": "Tiếng Việt",
+  "home": "Home",
+  "internal-server-error": "Internal server error",
+  "error-with-status": "Error with status",
+  "error-without-status": "Error without status"
+}
